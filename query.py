@@ -26,7 +26,7 @@ import pymysql
 from sqlalchemy import create_engine, text
 
 # connecting to the database
-engine = create_engine("mysql+pymysql://root:@localhost/insurancedb")
+engine = create_engine("mysql+pymysql://sql12667531:6zjujIzga5@sql12.freesqldatabase.com:3306/sql12667531")
 
 @st.cache_data
 def view_all_data():

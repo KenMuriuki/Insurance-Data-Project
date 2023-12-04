@@ -5,3 +5,4 @@ numerize==0.12
 streamlit-option-menu==0.3.6
 streamlit==1.28.2
 PyMySQL==1.1.0
+SQLAlchemy==2.0.23
